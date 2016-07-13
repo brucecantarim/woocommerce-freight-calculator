@@ -1,0 +1,141 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooCommerce Freight Calculator\n"
+"POT-Creation-Date: 2016-06-21 16:57-0300\n"
+"PO-Revision-Date: 2016-06-21 16:57-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-freight-calculator-shipping-method.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-freight-calculator-shipping-method.php:16
+msgid "Freight Calculator"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:44
+msgid "Enable/Disable"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:46
+msgid "If checked, this option enables the Freight Calculator."
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:50
+msgid "Freight Name"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:52
+msgid "Set here the name of your freight service."
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:53
+msgid "Freight"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:56
+msgid "Freight and Cargo Unloading Name"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:58
+msgid "Set here the name of your freight service with the optional unloading"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:59
+msgid "Freight and Unloading"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:62
+msgid "Price per kilometer"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:63
+msgid "Set your price rate. (Ex.: 1.40)"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:65
+msgid "1.40"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:68
+msgid "Minimum Freight Price"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:69
+msgid "Set your minimum price rate for the freight service. (Ex.: 5.00)"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:71
+msgid "5.00"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:74
+msgid "Cargo Unloading Service Price"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:75
+msgid ""
+"Set here the price percentage to be applied over the total value for the "
+"optional unloading service. (Ex.: 20)"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:77
+msgid "20"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:80
+msgid "Address of Origin"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:81
+msgid ""
+"Set here the address of your warehouse. (Ex.: Street, 000, Neighborhood, P."
+"O. Box, City, State, Country.)"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:83
+msgid "Street, 000, Neighborhood, P.O. Box, City, State, Country"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:86
+msgid "Maximum Distance of Coverage"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:87
+msgid ""
+"Set here, in KM, the maximum distance of coverage for the freight service. "
+"(Ex.: 50)"
+msgstr ""
+
+#: class-freight-calculator-shipping-method.php:89
+msgid "50"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Freight Calculator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://brucecantarim.github.io"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple freight calculator integrated with Goggle's Distance Matrix API."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bruce Cantarim"
+msgstr ""
