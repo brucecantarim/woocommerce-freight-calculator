@@ -98,7 +98,7 @@ public function is_available( $package ){
     $this->destination      = WC_Checkout::get_value( 'shipping_address_1') . " " . WC_Checkout::get_value( 'shipping_address_2') . " " . WC_Checkout::get_value( 'shipping_postcode' ) . " " . WC_Checkout::get_value( 'shipping_city' ) . " " . WC_Checkout::get_value( 'shipping_country' );
       
 // Making the json request to Google's API and calculating the distance
-    $this->apikey = "AIzaSyBCdPR7kOYjFUH97WvgGOVG22-X18JLr2U";
+    $this->apikey = "PLACE_YOUR_API_KEY_HERE";
     
 // Generating the request link and cleaning up the addresses  
     $this->mapsrequest = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=" . urlencode($this->originaddress) . "&destinations=" . urlencode($this->destination) . "&key=" . $this->apikey;
