@@ -5,4 +5,4 @@ It has a configuration page, for pricing per kilometer, and location origin.
 
 Custom made for a project.
 
-Still in early stages of development, currently functional.
+## No longer in active development, feel free to fork it and develop upon it, if needed.
